@@ -1,4 +1,5 @@
 npm run dev //dev
 npm run build //build project
 npm run test //test project
-npm run hello
+npm run logic
+解决所有的问题
