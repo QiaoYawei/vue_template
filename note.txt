@@ -3,4 +3,4 @@ npm run build //build project
 npm run test //test project
 npm run logic
 see vscode action
-for all changes to do
+hello git,i will learning it
