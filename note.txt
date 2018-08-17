@@ -1,0 +1,3 @@
+npm run dev //dev
+npm run build //build project
+npm run test //test project
